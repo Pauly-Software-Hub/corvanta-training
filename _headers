@@ -1,0 +1,5 @@
+/videos/*
+  Cache-Control: public, max-age=604800
+  Access-Control-Allow-Origin: https://corvanta-software.netlify.app
+/posters/*
+  Cache-Control: public, max-age=604800
